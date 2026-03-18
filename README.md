@@ -8,12 +8,13 @@ I'm a software engineering student learning Python.
 
 ## 🧠 What I'm learning
 - Python
-- Databases
-- Networking
+- PHP
+- HTML
+- CSS
+- JavaScript
 
 ## 🎮 Interests
 - Gaming
 - Tech
 
-## 📫 Contact
-- (you can add later)
+![Stats](https://github-readme-stats.vercel.app/api?username=FriedFly)
