@@ -18,3 +18,4 @@ I'm a software engineering student learning Python.
 - Tech
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FriedFly)
+![Python](https://img.shields.io/badge/Python- beginner-blue)
